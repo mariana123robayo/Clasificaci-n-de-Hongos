@@ -128,21 +128,21 @@ El repositorio ya incluye el conjunto de datos con la cantidad de imagenes que c
 
 Al momento de Procesar y clasificar los datos anteriores en Familias obtuvimos las siguientes:
 
-*Familia Amanita
-*Familia Boletus
-*Familia Cladonia
-*Familia Coprinellus
-*Familia Daedaleopsis
-*Familia Ervenia
-*Familia Formitopsis
-*Familia Gyromitra
-*Familia Hypoloma
-*Familia Lactarius
-*Familia Leccinum
-*Familia Peltigera
-*Familia Phellinus
-*Familia Pholiota
-*Familia Suillus
-*Familia Trametes
+* Familia Amanita
+* Familia Boletus
+* Familia Cladonia
+* Familia Coprinellus
+* Familia Daedaleopsis
+* Familia Ervenia
+* Familia Formitopsis
+* Familia Gyromitra
+* Familia Hypoloma
+* Familia Lactarius
+* Familia Leccinum
+* Familia Peltigera
+* Familia Phellinus
+* Familia Pholiota
+* Familia Suillus
+* Familia Trametes
 
 Se espera que el proyecto culmine con un modelo de inteligencia artificial efectivo y útil para la identificación de especies de hongos, contribuyendo al avance en la investigación y conocimiento de la micología.
